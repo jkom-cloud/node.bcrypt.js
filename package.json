@@ -55,7 +55,7 @@
   "binary": {
     "module_name": "bcrypt_lib",
     "module_path": "./lib/binding/",
-    "host": "https://github.com",
-    "remote_path": "https://precisecare.blob.core.chinacloudapi.cn/business"
+    "host": "https://precisecare.blob.core.chinacloudapi.cn",
+    "remote_path": "/business"
   }
 }
