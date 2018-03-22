@@ -54,8 +54,6 @@
   ],
   "binary": {
     "module_name": "bcrypt_lib",
-    "module_path": "./lib/binding/",
-    "host": "https://precisecare.blob.core.chinacloudapi.cn",
-    "remote_path": "/business/bcrypt-v1.0.3.tar.gz"
+    "module_path": "./lib/binding/"
   }
 }
